@@ -1,5 +1,5 @@
 body	{
-	background-color:#69944d;
+	background-color:#59704a;
 	text-align:left;
 	color: #a3a3a3;
 	line-height: .5;
@@ -53,7 +53,7 @@ button	{
 	display: inline-block;
 }
 #content	{
-	background-color:#add8e6;
+	background-color:#69944d;
 	padding: 5px 15px 8px 15px;
 	border-radius:10px;
 	
